@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Kuliah/Semester 4/TugasFragment/app/src/main/res/layout/activity_main.xml" value="0.13677536231884058" />
+        <entry key="..\:/Kuliah/Semester 4/TugasFragment/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Kuliah/Semester 4/TugasFragment/app/src/main/res/layout/fragment_dynamic.xml" value="0.18" />
         <entry key="..\:/Kuliah/Semester 4/TugasFragment/app/src/main/res/layout/fragment_static.xml" value="0.25" />
       </map>
     </option>
